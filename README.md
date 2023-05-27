@@ -1,2 +1,1 @@
-# SetUp
 # instagram-api
